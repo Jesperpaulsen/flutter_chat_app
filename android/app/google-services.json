@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55961777086",
+    "firebase_url": "https://flutter-chat-dfd7b.firebaseio.com",
+    "project_id": "flutter-chat-dfd7b",
+    "storage_bucket": "flutter-chat-dfd7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55961777086:android:e0ed3e30b2a366aa21ffef",
+        "android_client_info": {
+          "package_name": "no.jesper.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55961777086-3epsuekfuuuftkjf254b2e03g3u6t98j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiRWegNyHQyAU2KkVJ3ujf5LDLBEasCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55961777086-3epsuekfuuuftkjf254b2e03g3u6t98j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55961777086-t8172bdlkna063rblhiaeacave2vhrm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "no.jesper.flutterChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
